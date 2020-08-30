@@ -11,5 +11,6 @@ Run:
 ## Running unit tests
 
 Angular CLI is required to run tests  
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).  
+Code is available in the /src/app/models & /src/app/services directories
 
